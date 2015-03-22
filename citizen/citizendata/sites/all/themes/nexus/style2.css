@@ -1,0 +1,28 @@
+.footer	{
+    border-top: 1px solid #000;!important;
+  margin-top: 10px;!important;
+  padding-top: 10px;!important;
+}
+#imgtextindex{
+		  float:left;position:relative;padding:2px;!important;
+		  }
+
+#imgtextindex .imgtextindex1 {
+		  width:98%;!important;
+          position:absolute;!important;
+          bottom:2px;!important;
+          text-align: center;!important;
+		  }
+td.celda {
+		  padding:2px;!important;
+		  } 
+#imgtextbranch{
+		  float:left;!important;
+          position:relative;!important;
+		  }
+#imgtextbranch .imgtextbranch1 {
+		  width:100%;!important;
+          position:absolute;!important;
+          bottom:0px; !important;
+          text-align: center;!important;
+		  }

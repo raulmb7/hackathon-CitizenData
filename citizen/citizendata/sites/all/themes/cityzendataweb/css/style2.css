@@ -1,0 +1,21 @@
+.footer	{
+  border-top: 1px solid #000;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+#imgtextindex{
+		  float:left;position:relative;padding:2px;
+		  }
+
+#imgtextindex .imgtextindex1 {
+		  width:98%;position:absolute;bottom:2px; text-align: center;
+		  }
+td.celda {
+		  padding:2px;
+		  } 
+#imgtextbranch{
+		  float:left;position:relative;
+		  }
+#imgtextbranch .imgtextbranch1 {
+		  width:100%;position:absolute;bottom:0px; text-align: center;
+		  }
